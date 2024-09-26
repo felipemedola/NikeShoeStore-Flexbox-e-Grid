@@ -408,6 +408,10 @@ body {
     }
 }
 
+.cartao--recentes {
+    display: none;
+}
+
 .secao {
     display: grid;
     gap: 16px;
